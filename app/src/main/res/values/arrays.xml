@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_radio">
+        <item>Mostrar todos</item>
+        <item>5 kilometros a la redonda</item>
+        <item>10 kilometros a la redonda</item>
+        <item>15 kilometros a la redonda</item>
+        <item>25 kilometros a la redonda</item>
+        <item>40 kilometros a la redonda</item>
+    </string-array>
+    <string-array name="spinner_canton">
+        <item>Salinas</item>
+        <item>La Libertad</item>
+        <item>Santa Elena</item>
+    </string-array>
+    <string-array name="spinner_parroquia">
+        <item>Salinas</item>
+        <item>Jose Luis Tamayo</item>
+        <item>Santa Rosa</item>
+        <item>Anconcito</item>
+        <item>La Libertad</item>
+        <item>Santa Elena</item>
+        <item>Ancon</item>
+        <item>Chanduy</item>
+        <item>Manglaralto</item>
+    </string-array>
+    <string-array name="cabecera_tabla">
+        <item>Dia</item>
+        <item>Abierto</item>
+        <item>Cierra</item>
+    </string-array>
+</resources>
